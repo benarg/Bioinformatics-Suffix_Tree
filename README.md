@@ -1,1 +1,1 @@
-Implémentation d'arbres des suffixes pour analyser des séquences ADN.
+Implémentation d'arbre des suffixes pour analyser des séquences ADN.
